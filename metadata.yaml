@@ -1,0 +1,37 @@
+_repo: Fifty-years-in-Wall-Street_70377
+_version: 0.0.1
+alternative_title: 50 years in Wall Street
+creator:
+  author:
+    agent_name: Clews, Henry
+    birthdate: 1836
+    deathdate: 1923
+    gutenberg_agent_id: '55736'
+    url: http://www.gutenberg.org/2009/agents/55736
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Clews
+description: ''
+gutenberg_issued: '2023-03-25'
+identifiers:
+  gutenberg: '70377'
+  lccn: 08018389
+language: en
+pgterms:marc904: https://archive.org/details/fiftyyearsinwall00clewuoft
+pgterms:marc905: 20190421025538clews
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: MFR, Barry Abrahamsen, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bIrving Publishing Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business'
+- !lcsh 'Speculation'
+- !lcsh 'Capitalists and financiers -- United States'
+- !lcsh 'Wall Street (New York, N.Y.)'
+- !lcc 'HG'
+- GITenberg
+title: Fifty years in Wall Street
+url: http://www.gutenberg.org/ebooks/70377
